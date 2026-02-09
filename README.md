@@ -4,4 +4,4 @@
 
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/younex65/SmartGRE-Tunnel/refs/heads/main/install.sh | sed 's/\r$//') 
+bash <(curl -fsSL https://raw.githubusercontent.com/younex65/SmartGRE-Tunnel/refs/heads/main/final-install.sh | sed 's/\r$//') 
